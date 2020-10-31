@@ -1,40 +1,33 @@
 const puppeteer = require("puppeteer");
 const fs = require("fs");
+const connection = require('../database/connection')
 
 
 class RoboController {
 
-  static async getTemtem(req,res){
+  static async index(req, res){
+
+  }
+
+  static async getTemtem(req,res, next){
     const url = "https://temtem.gamepedia.com/Temtem_Species";
-    // const url = "https://gamewith.net/temtem/article/show/15332";
     const browser = await puppeteer.launch({ headless: true });
     const page = await browser.newPage();
     await page.goto(url);
-    // await page.screenshot({ path: "./fotos/instagram.png" });
     const temtemList = await page.evaluate(() => {
-      // const nodeList = document.querySelectorAll("tbody td").value;
       const nodeList = Array.from(document.querySelectorAll("tbody  tr"));
-      // const nodeListImg = Array.from(document.querySelectorAll("tbody  tr img"));
       const listArray = [...nodeList];
-      // const listImg = [...nodeListImg];
 
-      // const dataListImg = listImg.map( ({currentSrc}) => ({
-      //   currentSrc,
-      // }))
-
-      // console.log("dataListImg:", dataListImg);
-
-      const dataList = listArray.map((item, index) => {
+      const dataList = listArray.map( (item, index) => {
         const text = item.innerText;
         const split = text.split(/\s/);
-        
+        // console.log(split);
         if (split.length === 12) {
           let data = {
             id: index,
             n: split[0],
-            src: "",
             name: split[2],
-            type: split[3],
+            type_one: split[3],
             hp: split[4],
             sta: split[5],
             spd: split[6],
@@ -49,7 +42,6 @@ class RoboController {
           let data = {
             id: index,
             n: split[0],
-            src: "",
             name: split[2],
             type_one: split[3],
             type_two: split[4],
@@ -64,19 +56,37 @@ class RoboController {
           };
           return data;
         }
+        
       });
-      // console.log("split", dataList);
       return dataList;
     });
-    console.log("tamanho array:", temtemList.length);
     fs.writeFile("./src/api/temtem.json", JSON.stringify(temtemList, null, 2), (err) => {
       if (err) throw new Error("DEU RUIM!");
-      console.log("DEU BOM!");
+      console.log("DEU BOM FILE!");
     });
+    
+    // console.log("type", typeof temtemList);
+    // console.log(temtemList);
+    try {
+      (async() => {
+        // temtemList.map(async (temtem) => {
+        //   await connection("temtem").insert(temtem);
+        //  });
+        for(let i in temtemList){
+          const tempedia = temtemList[i]
+          await connection("temtem").insert(tempedia)
+        }
+      })();
+     
+      // return res.json(200, temtemList);
+    } catch (error) {
+      // return res.json(500, error)
+      next(error)
+    }
 
     // await browser.close();
-
   }
+
 
 }
 
