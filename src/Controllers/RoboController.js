@@ -8,10 +8,10 @@ class RoboController {
   static async index(req, res){
 
     const query = await connection('temtem').select('*')
-    if(query){
-      return res.status(200).send(query);
+    if(!query){
+      return res.status(500).send({error: "No temtem found"});
     }else{
-      return res.status(500).send({mesage: "Select vazio"});
+      return res.status(200).send(query);
     }
   }
 
@@ -78,9 +78,11 @@ class RoboController {
         // temtemList.map(async (temtem) => {
         //   await connection("temtem").insert(temtem);
         //  });
+        await connection("temtem").truncate();
+        
         for(let i in temtemList){
           const tempedia = temtemList[i]
-          await connection("temtem").insert(tempedia)
+          await connection("temtem").insert(tempedia);
         }
       })();
      
