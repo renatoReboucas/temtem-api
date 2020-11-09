@@ -1,6 +1,5 @@
 [
   {
-    "id": 0,
     "n": "#002",
     "name": "Oree",
     "type_one": "Digital",
@@ -14,7 +13,6 @@
     "total": "-"
   },
   {
-    "id": 1,
     "n": "#003",
     "name": "Zaobian",
     "type_one": "Digital",
@@ -28,7 +26,6 @@
     "total": "-"
   },
   {
-    "id": 2,
     "n": "#007",
     "name": "Platypet",
     "type_one": "Water",
@@ -43,7 +40,6 @@
     "total": "358"
   },
   {
-    "id": 3,
     "n": "#008",
     "name": "Platox",
     "type_one": "Water",
@@ -58,7 +54,6 @@
     "total": "404"
   },
   {
-    "id": 4,
     "n": "#009",
     "name": "Platimous",
     "type_one": "Water",
@@ -73,7 +68,6 @@
     "total": "462"
   },
   {
-    "id": 5,
     "n": "#010",
     "name": "Swali",
     "type_one": "Nature",
@@ -87,7 +81,6 @@
     "total": "349"
   },
   {
-    "id": 6,
     "n": "#011",
     "name": "Loali",
     "type_one": "Nature",
@@ -102,7 +95,6 @@
     "total": "485"
   },
   {
-    "id": 7,
     "n": "#012",
     "name": "Tateru",
     "type_one": "Neutral",
@@ -116,7 +108,6 @@
     "total": "488"
   },
   {
-    "id": 8,
     "n": "#016",
     "name": "Paharo",
     "type_one": "Wind",
@@ -130,7 +121,6 @@
     "total": "306"
   },
   {
-    "id": 9,
     "n": "#017",
     "name": "Paharac",
     "type_one": "Wind",
@@ -144,7 +134,6 @@
     "total": "385"
   },
   {
-    "id": 10,
     "n": "#018",
     "name": "Granpah",
     "type_one": "Wind",
@@ -158,7 +147,6 @@
     "total": "437"
   },
   {
-    "id": 11,
     "n": "#019",
     "name": "Ampling",
     "type_one": "Electric",
@@ -172,7 +160,6 @@
     "total": "-"
   },
   {
-    "id": 12,
     "n": "#020",
     "name": "Amphatyr",
     "type_one": "Electric",
@@ -187,7 +174,6 @@
     "total": "-"
   },
   {
-    "id": 13,
     "n": "#021",
     "name": "Bunbun",
     "type_one": "Earth",
@@ -202,7 +188,6 @@
     "total": "374"
   },
   {
-    "id": 14,
     "n": "#022",
     "name": "Mudrid",
     "type_one": "Earth",
@@ -217,7 +202,6 @@
     "total": "456"
   },
   {
-    "id": 15,
     "n": "#023",
     "name": "Hidody",
     "type_one": "Nature",
@@ -231,7 +215,6 @@
     "total": "356"
   },
   {
-    "id": 16,
     "n": "#024",
     "name": "Taifu",
     "type_one": "Nature",
@@ -245,7 +228,6 @@
     "total": "467"
   },
   {
-    "id": 17,
     "n": "#025",
     "name": "Fomu",
     "type_one": "Water",
@@ -259,7 +241,6 @@
     "total": "340"
   },
   {
-    "id": 18,
     "n": "#026",
     "name": "Wiplump",
     "type_one": "Water",
@@ -274,7 +255,6 @@
     "total": "481"
   },
   {
-    "id": 19,
     "n": "#027",
     "name": "Skail",
     "type_one": "Neutral",
@@ -288,7 +268,6 @@
     "total": "328"
   },
   {
-    "id": 20,
     "n": "#028",
     "name": "Skunch",
     "type_one": "Neutral",
@@ -303,7 +282,6 @@
     "total": "454"
   },
   {
-    "id": 21,
     "n": "#029",
     "name": "Goty",
     "type_one": "Neutral",
@@ -317,7 +295,6 @@
     "total": "328"
   },
   {
-    "id": 22,
     "n": "#030",
     "name": "Mouflank",
     "type_one": "Neutral",
@@ -331,7 +308,6 @@
     "total": "483"
   },
   {
-    "id": 23,
     "n": "#031",
     "name": "Rhoulder",
     "type_one": "Neutral",
@@ -346,7 +322,6 @@
     "total": "398"
   },
   {
-    "id": 24,
     "n": "#032",
     "name": "Houchic",
     "type_one": "Mental",
@@ -360,7 +335,6 @@
     "total": "353"
   },
   {
-    "id": 25,
     "n": "#033",
     "name": "Tental",
     "type_one": "Mental",
@@ -374,7 +348,6 @@
     "total": "403"
   },
   {
-    "id": 26,
     "n": "#034",
     "name": "Nagaise",
     "type_one": "Mental",
@@ -389,7 +362,6 @@
     "total": "452"
   },
   {
-    "id": 27,
     "n": "#035",
     "name": "Orphyll",
     "type_one": "Nature",
@@ -404,7 +376,6 @@
     "total": "364"
   },
   {
-    "id": 28,
     "n": "#036",
     "name": "Nidrasil",
     "type_one": "Nature",
@@ -419,7 +390,6 @@
     "total": "445"
   },
   {
-    "id": 29,
     "n": "#037",
     "name": "Banapi",
     "type_one": "Fire",
@@ -433,7 +403,6 @@
     "total": "333"
   },
   {
-    "id": 30,
     "n": "#038",
     "name": "Capyre",
     "type_one": "Fire",
@@ -447,7 +416,6 @@
     "total": "429"
   },
   {
-    "id": 31,
     "n": "#039",
     "name": "Lapinite",
     "type_one": "Crystal",
@@ -461,7 +429,6 @@
     "total": "353"
   },
   {
-    "id": 32,
     "n": "#040",
     "name": "Azuroc",
     "type_one": "Crystal",
@@ -475,7 +442,6 @@
     "total": "397"
   },
   {
-    "id": 33,
     "n": "#041",
     "name": "Zenoreth",
     "type_one": "Crystal",
@@ -489,7 +455,6 @@
     "total": "450"
   },
   {
-    "id": 34,
     "n": "#044",
     "name": "Bigu",
     "type_one": "Nature",
@@ -503,7 +468,6 @@
     "total": "329"
   },
   {
-    "id": 35,
     "n": "#045",
     "name": "Babawa",
     "type_one": "Nature",
@@ -518,7 +482,6 @@
     "total": "448"
   },
   {
-    "id": 36,
     "n": "#048",
     "name": "Kaku",
     "type_one": "Nature",
@@ -532,7 +495,6 @@
     "total": "357"
   },
   {
-    "id": 37,
     "n": "#049",
     "name": "Saku",
     "type_one": "Nature",
@@ -547,7 +509,6 @@
     "total": "420"
   },
   {
-    "id": 38,
     "n": "#050",
     "name": "Valash",
     "type_one": "Neutral",
@@ -562,7 +523,6 @@
     "total": "465"
   },
   {
-    "id": 39,
     "n": "#053",
     "name": "Barnshe",
     "type_one": "Wind",
@@ -577,7 +537,6 @@
     "total": "420"
   },
   {
-    "id": 40,
     "n": "#054",
     "name": "Gyalis",
     "type_one": "Crystal",
@@ -592,7 +551,6 @@
     "total": "460"
   },
   {
-    "id": 41,
     "n": "#055",
     "name": "Occlura",
     "type_one": "Crystal",
@@ -606,7 +564,6 @@
     "total": "330"
   },
   {
-    "id": 42,
     "n": "#056",
     "name": "Myx",
     "type_one": "Crystal",
@@ -621,7 +578,6 @@
     "total": "443"
   },
   {
-    "id": 43,
     "n": "#057",
     "name": "Raiber",
     "type_one": "Fire",
@@ -635,7 +591,6 @@
     "total": "332"
   },
   {
-    "id": 44,
     "n": "#058",
     "name": "Raize",
     "type_one": "Fire",
@@ -649,7 +604,6 @@
     "total": "384"
   },
   {
-    "id": 45,
     "n": "#059",
     "name": "Raican",
     "type_one": "Fire",
@@ -663,7 +617,6 @@
     "total": "441"
   },
   {
-    "id": 46,
     "n": "#060",
     "name": "Pewki",
     "type_one": "Water",
@@ -677,7 +630,6 @@
     "total": "263"
   },
   {
-    "id": 47,
     "n": "#061",
     "name": "Piraniant",
     "type_one": "Water",
@@ -691,7 +643,6 @@
     "total": "449"
   },
   {
-    "id": 48,
     "n": "#066",
     "name": "Osuchi",
     "type_one": "Earth",
@@ -705,7 +656,6 @@
     "total": "292"
   },
   {
-    "id": 49,
     "n": "#067",
     "name": "Osukan",
     "type_one": "Earth",
@@ -720,7 +670,6 @@
     "total": "342"
   },
   {
-    "id": 50,
     "n": "#068",
     "name": "Osukai",
     "type_one": "Earth",
@@ -735,7 +684,6 @@
     "total": "441"
   },
   {
-    "id": 51,
     "n": "#069",
     "name": "Saipat",
     "type_one": "Water",
@@ -750,7 +698,6 @@
     "total": "444"
   },
   {
-    "id": 52,
     "n": "#070",
     "name": "Pycko",
     "type_one": "Earth",
@@ -765,7 +712,6 @@
     "total": "320"
   },
   {
-    "id": 53,
     "n": "#071",
     "name": "Drakash",
     "type_one": "Earth",
@@ -780,7 +726,6 @@
     "total": "460"
   },
   {
-    "id": 54,
     "n": "#072",
     "name": "Crystle",
     "type_one": "Crystal",
@@ -794,7 +739,6 @@
     "total": "352"
   },
   {
-    "id": 55,
     "n": "#073",
     "name": "Sherald",
     "type_one": "Crystal",
@@ -808,7 +752,6 @@
     "total": "402"
   },
   {
-    "id": 56,
     "n": "#074",
     "name": "Tortenite",
     "type_one": "Crystal",
@@ -823,7 +766,6 @@
     "total": "448"
   },
   {
-    "id": 57,
     "n": "#079",
     "name": "Hocus",
     "type_one": "Mental",
@@ -837,7 +779,6 @@
     "total": "353"
   },
   {
-    "id": 58,
     "n": "#080",
     "name": "Pocus",
     "type_one": "Mental",
@@ -851,7 +792,6 @@
     "total": "438"
   },
   {
-    "id": 59,
     "n": "#082",
     "name": "Sparzy",
     "type_one": "Electric",
@@ -865,7 +805,6 @@
     "total": "-"
   },
   {
-    "id": 60,
     "n": "#084",
     "name": "Mushi",
     "type_one": "Toxic",
@@ -879,7 +818,6 @@
     "total": "310"
   },
   {
-    "id": 61,
     "n": "#085",
     "name": "Mushook",
     "type_one": "Toxic",
@@ -894,7 +832,6 @@
     "total": "444"
   },
   {
-    "id": 62,
     "n": "#086",
     "name": "Magmis",
     "type_one": "Fire",
@@ -908,7 +845,6 @@
     "total": "317"
   },
   {
-    "id": 63,
     "n": "#087",
     "name": "Mastione",
     "type_one": "Fire",
@@ -922,7 +858,6 @@
     "total": "438"
   },
   {
-    "id": 64,
     "n": "#088",
     "name": "Umishi",
     "type_one": "Water",
@@ -936,7 +871,6 @@
     "total": "370"
   },
   {
-    "id": 65,
     "n": "#089",
     "name": "Ukama",
     "type_one": "Water",
@@ -950,7 +884,6 @@
     "total": "473"
   },
   {
-    "id": 66,
     "n": "#091",
     "name": "Raignet",
     "type_one": "Electric",
@@ -964,7 +897,6 @@
     "total": "-"
   },
   {
-    "id": 67,
     "n": "#092",
     "name": "Smazee",
     "type_one": "Melee",
@@ -978,7 +910,6 @@
     "total": "357"
   },
   {
-    "id": 68,
     "n": "#093",
     "name": "Baboong",
     "type_one": "Melee",
@@ -992,7 +923,6 @@
     "total": "402"
   },
   {
-    "id": 69,
     "n": "#094",
     "name": "Seismunch",
     "type_one": "Melee",
@@ -1007,7 +937,6 @@
     "total": "449"
   },
   {
-    "id": 70,
     "n": "#095",
     "name": "Zizare",
     "type_one": "Earth",
@@ -1021,7 +950,6 @@
     "total": "447"
   },
   {
-    "id": 71,
     "n": "#099",
     "name": "Momo",
     "type_one": "Neutral",
@@ -1035,7 +963,6 @@
     "total": "477"
   },
   {
-    "id": 72,
     "n": "#100",
     "name": "Kuri",
     "type_one": "Earth",
@@ -1049,7 +976,6 @@
     "total": "318"
   },
   {
-    "id": 73,
     "n": "#101",
     "name": "Kauren",
     "type_one": "Earth",
@@ -1063,7 +989,6 @@
     "total": "443"
   },
   {
-    "id": 74,
     "n": "#102",
     "name": "Spriole",
     "type_one": "Nature",
@@ -1077,7 +1002,6 @@
     "total": "355"
   },
   {
-    "id": 75,
     "n": "#103",
     "name": "Deendre",
     "type_one": "Nature",
@@ -1091,7 +1015,6 @@
     "total": "391"
   },
   {
-    "id": 76,
     "n": "#104",
     "name": "Cerneaf",
     "type_one": "Nature",
@@ -1105,7 +1028,6 @@
     "total": "451"
   },
   {
-    "id": 77,
     "n": "#105",
     "name": "Toxolotl",
     "type_one": "Toxic",
@@ -1119,7 +1041,6 @@
     "total": "362"
   },
   {
-    "id": 78,
     "n": "#106",
     "name": "Noxolotl",
     "type_one": "Toxic",
@@ -1133,7 +1054,6 @@
     "total": "451"
   },
   {
-    "id": 79,
     "n": "#107",
     "name": "Blooze",
     "type_one": "Toxic",
@@ -1147,7 +1067,6 @@
     "total": "346"
   },
   {
-    "id": 80,
     "n": "#108",
     "name": "Goolder",
     "type_one": "Toxic",
@@ -1161,7 +1080,6 @@
     "total": "461"
   },
   {
-    "id": 81,
     "n": "#109",
     "name": "Zephyruff",
     "type_one": "Toxic",
@@ -1176,7 +1094,6 @@
     "total": "348"
   },
   {
-    "id": 82,
     "n": "#110",
     "name": "Volarend",
     "type_one": "Toxic",
@@ -1191,7 +1108,6 @@
     "total": "442"
   },
   {
-    "id": 83,
     "n": "#111",
     "name": "Grumvel",
     "type_one": "Earth",
@@ -1205,7 +1121,6 @@
     "total": "384"
   },
   {
-    "id": 84,
     "n": "#112",
     "name": "Grumper",
     "type_one": "Earth",
@@ -1220,7 +1135,6 @@
     "total": "445"
   },
   {
-    "id": 85,
     "n": "#113",
     "name": "Ganki",
     "type_one": "Electric",
@@ -1235,7 +1149,6 @@
     "total": "375"
   },
   {
-    "id": 86,
     "n": "#114",
     "name": "Gazuma",
     "type_one": "Electric",
@@ -1250,7 +1163,6 @@
     "total": "449"
   },
   {
-    "id": 87,
     "n": "#115",
     "name": "Oceara",
     "type_one": "Water",
@@ -1264,7 +1176,6 @@
     "total": "486"
   },
   {
-    "id": 88,
     "n": "#116",
     "name": "Yowlar",
     "type_one": "Neutral",
@@ -1278,7 +1189,6 @@
     "total": "497"
   },
   {
-    "id": 89,
     "n": "#117",
     "name": "Droply",
     "type_one": "Water",
@@ -1293,7 +1203,6 @@
     "total": "363"
   },
   {
-    "id": 90,
     "n": "#118",
     "name": "Garyo",
     "type_one": "Water",
@@ -1308,7 +1217,6 @@
     "total": "453"
   },
   {
-    "id": 91,
     "n": "#122",
     "name": "Shuine",
     "type_one": "Crystal",
@@ -1323,7 +1231,6 @@
     "total": "462"
   },
   {
-    "id": 92,
     "n": "#123",
     "name": "Nessla",
     "type_one": "Water",
@@ -1338,7 +1245,6 @@
     "total": "443"
   },
   {
-    "id": 93,
     "n": "#124",
     "name": "Valiar",
     "type_one": "Mental",
@@ -1352,7 +1258,6 @@
     "total": "-"
   },
   {
-    "id": 94,
     "n": "#127",
     "name": "Kalazu",
     "type_one": "Water",
@@ -1366,7 +1271,6 @@
     "total": "321"
   },
   {
-    "id": 95,
     "n": "#128",
     "name": "Kalabyss",
     "type_one": "Water",
@@ -1381,7 +1285,6 @@
     "total": "451"
   },
   {
-    "id": 96,
     "n": "#129",
     "name": "Adoroboros",
     "type_one": "Toxic",
@@ -1396,7 +1299,6 @@
     "total": "442"
   },
   {
-    "id": 97,
     "n": "#130",
     "name": "Tuwai",
     "type_one": "Wind",
@@ -1410,7 +1312,6 @@
     "total": "373"
   },
   {
-    "id": 98,
     "n": "#131",
     "name": "Tukai",
     "type_one": "Wind",
@@ -1425,7 +1326,6 @@
     "total": "462"
   },
   {
-    "id": 99,
     "n": "#133",
     "name": "Tuvine",
     "type_one": "Wind",
@@ -1440,7 +1340,6 @@
     "total": "448"
   },
   {
-    "id": 100,
     "n": "#134",
     "name": "Turoc",
     "type_one": "Wind",
@@ -1455,7 +1354,6 @@
     "total": "444"
   },
   {
-    "id": 101,
     "n": "#137",
     "name": "Kinu",
     "type_one": "Nature",
@@ -1470,7 +1368,6 @@
     "total": "433"
   },
   {
-    "id": 102,
     "n": "#138",
     "name": "Vulvir",
     "type_one": "Fire",
@@ -1485,7 +1382,6 @@
     "total": "359"
   },
   {
-    "id": 103,
     "n": "#139",
     "name": "Vulor",
     "type_one": "Fire",
@@ -1500,7 +1396,6 @@
     "total": "388"
   },
   {
-    "id": 104,
     "n": "#140",
     "name": "Vulcrane",
     "type_one": "Fire",
@@ -1515,7 +1410,6 @@
     "total": "473"
   },
   {
-    "id": 105,
     "n": "#141",
     "name": "Pigepic",
     "type_one": "Wind",
@@ -1529,7 +1423,6 @@
     "total": "433"
   },
   {
-    "id": 106,
     "n": "#142",
     "name": "Akranox",
     "type_one": "Earth",
@@ -1544,7 +1437,6 @@
     "total": "464"
   },
   {
-    "id": 107,
     "n": "#143",
     "name": "Koish",
     "type_one": "Water",
@@ -1558,7 +1450,6 @@
     "total": "447"
   },
   {
-    "id": 108,
     "n": "#144",
     "name": "Vulffy",
     "type_one": "Earth",
@@ -1573,7 +1464,6 @@
     "total": "439"
   },
   {
-    "id": 109,
     "n": "#161",
     "name": "Anahir",
     "type_one": "Crystal",
@@ -1588,7 +1478,6 @@
     "total": "423"
   },
   {
-    "id": 110,
     "n": "hide",
     "name": "·",
     "type_one": "d",
@@ -1603,7 +1492,6 @@
     "total": "•"
   },
   {
-    "id": 111,
     "n": "hide",
     "name": "·",
     "type_one": "d",
@@ -1612,11 +1500,9 @@
     "sta": "Temtem"
   },
   {
-    "id": 112,
     "n": ""
   },
   {
-    "id": 113,
     "n": "Temtem",
     "name": "Breeding",
     "type_one": "",
@@ -1631,11 +1517,9 @@
     "total": "•"
   },
   {
-    "id": 114,
     "n": ""
   },
   {
-    "id": 115,
     "n": "Types",
     "name": "Neutral",
     "type_one": "",
@@ -1650,11 +1534,9 @@
     "total": "•"
   },
   {
-    "id": 116,
     "n": ""
   },
   {
-    "id": 117,
     "n": "Combat",
     "name": "Levels",
     "type_one": "and",

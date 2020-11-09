@@ -7,9 +7,12 @@ class RoboController {
 
   static async index(req, res){
 
-    const query = await connection('temtem')
-    .select('*')
-    return res.status(200).send(query);
+    const query = await connection('temtem').select('*')
+    if(query){
+      return res.status(200).send(query);
+    }else{
+      return res.status(500).send({mesage: "Select vazio"});
+    }
   }
 
   static async getTemtem(req,res, next){
@@ -27,7 +30,7 @@ class RoboController {
         // console.log(split);
         if (split.length === 12) {
           let data = {
-            id: index,
+            // id: index,
             n: split[0],
             name: split[2],
             type_one: split[3],
@@ -43,7 +46,7 @@ class RoboController {
           return data;
         } else {
           let data = {
-            id: index,
+            // id: index,
             n: split[0],
             name: split[2],
             type_one: split[3],
