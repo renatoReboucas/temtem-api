@@ -18,11 +18,12 @@ app.use((error, req, res, next) =>{
   res.json({error: error.message})
 })
 
+
 const port = 3333;
 
 // disponibiliza as rotas no arquivo base
 routes(app);
 
-app.listen(port, () => {
+app.listen(process.env.PORT || port, () => {
   console.log(`Servidor rodando na porta: ${port}`);
 });
