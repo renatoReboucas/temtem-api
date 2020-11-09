@@ -5,7 +5,7 @@ const router = Router();
 
 
 router.get("/startRobo", RoboController.getTemtem);
-router.get("/index", RoboController.getTemtem);
+router.get("/index", RoboController.index);
 
 
 module.exports = router;

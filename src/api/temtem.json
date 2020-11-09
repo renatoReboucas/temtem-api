@@ -1545,6 +1545,20 @@
   },
   {
     "id": 107,
+    "n": "#143",
+    "name": "Koish",
+    "type_one": "Water",
+    "hp": "51",
+    "sta": "55",
+    "spd": "66",
+    "atk": "83",
+    "def": "68",
+    "spatk": "70",
+    "spdef": "54",
+    "total": "447"
+  },
+  {
+    "id": 108,
     "n": "#144",
     "name": "Vulffy",
     "type_one": "Earth",
@@ -1559,7 +1573,7 @@
     "total": "439"
   },
   {
-    "id": 108,
+    "id": 109,
     "n": "#161",
     "name": "Anahir",
     "type_one": "Crystal",
@@ -1572,5 +1586,86 @@
     "spatk": "50",
     "spdef": "101",
     "total": "423"
+  },
+  {
+    "id": 110,
+    "n": "hide",
+    "name": "·",
+    "type_one": "d",
+    "type_two": "·",
+    "hp": "e",
+    "sta": "Temtem",
+    "spd": "",
+    "atk": "Temtem",
+    "def": "",
+    "spatk": "Breeding",
+    "spdef": "",
+    "total": "•"
+  },
+  {
+    "id": 111,
+    "n": "hide",
+    "name": "·",
+    "type_one": "d",
+    "type_two": "·",
+    "hp": "e",
+    "sta": "Temtem"
+  },
+  {
+    "id": 112,
+    "n": ""
+  },
+  {
+    "id": 113,
+    "n": "Temtem",
+    "name": "Breeding",
+    "type_one": "",
+    "type_two": "•",
+    "hp": "",
+    "sta": "Eggs",
+    "spd": "",
+    "atk": "•",
+    "def": "",
+    "spatk": "Evolution",
+    "spdef": "",
+    "total": "•"
+  },
+  {
+    "id": 114,
+    "n": ""
+  },
+  {
+    "id": 115,
+    "n": "Types",
+    "name": "Neutral",
+    "type_one": "",
+    "type_two": "•",
+    "hp": "",
+    "sta": "Wind",
+    "spd": "",
+    "atk": "•",
+    "def": "",
+    "spatk": "Earth",
+    "spdef": "",
+    "total": "•"
+  },
+  {
+    "id": 116,
+    "n": ""
+  },
+  {
+    "id": 117,
+    "n": "Combat",
+    "name": "Levels",
+    "type_one": "and",
+    "type_two": "Experience",
+    "hp": "",
+    "sta": "•",
+    "spd": "",
+    "atk": "Stats",
+    "def": "",
+    "spatk": "•",
+    "spdef": "",
+    "total": "Status"
   }
 ]

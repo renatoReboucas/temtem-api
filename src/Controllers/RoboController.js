@@ -7,6 +7,9 @@ class RoboController {
 
   static async index(req, res){
 
+    const query = await connection('temtem')
+    .select('*')
+    return res.status(200).send(query);
   }
 
   static async getTemtem(req,res, next){
@@ -62,7 +65,7 @@ class RoboController {
     });
     fs.writeFile("./src/api/temtem.json", JSON.stringify(temtemList, null, 2), (err) => {
       if (err) throw new Error("DEU RUIM!");
-      console.log("DEU BOM FILE!");
+      // console.log("DEU BOM FILE!");
     });
     
     // console.log("type", typeof temtemList);
@@ -85,9 +88,10 @@ class RoboController {
     }
 
     // await browser.close();
+    // return res.json(200, temtemList);
   }
 
-
+  //end class
 }
 
 
