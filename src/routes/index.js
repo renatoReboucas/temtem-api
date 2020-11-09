@@ -10,7 +10,7 @@ module.exports = (app) => {
 
 
   app.get("/", (req, res) => {
-    res.status(200).send({ message: "boas-vindas a API app Temtem" });
+    res.status(200).send({ message: "Boas-vindas a API Temtem" });
   });
 
   // app.get('')
