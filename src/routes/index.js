@@ -5,7 +5,7 @@ const robo = require("./roboRoutes");
 module.exports = (app) => {
   app.use(bodyParser.json());
 
-  // fala que vai usar o arquivo de rotas de pessoas
+  // fala que vai usar o arquivo de rotas de robo
   app.use(robo);
 
 
